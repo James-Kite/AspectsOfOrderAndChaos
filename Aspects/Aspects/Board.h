@@ -7,6 +7,8 @@
 
 using namespace std;
 
+// This class represents the game board
+
 class Board
 {
 public:
@@ -16,5 +18,6 @@ private:
 	Player p1;
 	Player p2;
 	Tile board[80][40];
+	// making a change to the file
 };
 
