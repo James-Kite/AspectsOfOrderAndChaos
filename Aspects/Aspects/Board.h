@@ -7,6 +7,8 @@
 
 using namespace std;
 
+// This class represents the game board
+
 class Board
 {
 public:
