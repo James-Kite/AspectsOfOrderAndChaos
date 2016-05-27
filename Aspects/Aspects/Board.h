@@ -16,5 +16,6 @@ private:
 	Player p1;
 	Player p2;
 	Tile board[80][40];
+	// making a change to the file
 };
 
